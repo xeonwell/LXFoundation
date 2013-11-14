@@ -1,0 +1,8 @@
+
+.DS_Store
+PDFoundation/PDFoundation.xcodeproj/*.pbxuser
+PDFoundation/PDFoundation.xcodeproj/xcuserdata
+PDFoundation/PDFoundation.xcodeproj/project.xcworkspace/xcuserdata/
+
+
+PDFoundation/PDFoundation.xcodeproj/project.xcworkspace/contents.xcworkspacedata
